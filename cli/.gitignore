@@ -1,0 +1,20 @@
+*-debug.log
+*-error.log
+/.nyc_output
+/dist
+/package-lock.json
+/tmp
+node_modules
+oclif.manifest.json
+.eslintcache
+.docusaurus
+build
+
+# Yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
